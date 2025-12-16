@@ -44,15 +44,15 @@
 
 ## 🎯 What is Open-PhoneAgent?
 
-**The Problem**: Current mobile AI agents rely on expensive cloud APIs and large language models that are impractical for real-world deployment. Users face **Privacy Concerns**, **Latency Issues**, and **High Costs** when their phone needs to call external services for every interaction.
+**The Problem**: Most AI agents rely on expensive cloud APIs and large models that are impractical for real-world on-device deployment. Users face **Privacy Concerns**, **Latency Issues**, and **High Costs** when their phone needs to call external services for every interaction.
 
-**Our Solution**: Open-PhoneAgent introduces the first **Open-Source 3B-Parameter Agentic Foundation Model** specifically proposed for smartphone interaction. This compact Vision-Language Model runs entirely on your device - **No Privacy Concerns** and **No API Costs**.
+**Our Solution**: Open-PhoneAgent introduces the first **Open-Source, 3B-parameter Agentic Foundation Model** designed specifically for on-device smartphone interaction. This compact vision-language model runs entirely locally — meaning **No Privacy Concerns**, **No Cloud Dependence**, and **Zero API Costs**.
 
-**Why 3B Parameters?** We believe the future of mobile AI isn't about cramming larger models into phones, but about smart optimization for real-world constraints:
-- **⚡ Edge-Ready**: Runs on commodity GPUs and emerging mobile NPUs
-- **🔒 Privacy-First**: All processing happens locally on your device
-- **💰 Cost-Effective**: No ongoing API fees or cloud dependencies
-- **🎯 Performance-Optimized**: Matches 7B-9B model performance through advanced training
+**Why 3B Parameters?** We believe the future of mobile AI lies not only in making models larger, but in making them smarter and more efficient for real-world constraints. Our 3B model is:
+- ⚡ **Edge-Optimized**: Efficient enough for commodity GPUs and next-generation mobile NPUs
+- 🔒 **Privacy-First**: All computation stays on your device
+- 💰 **Cost-Free**: No cloud inference and no ongoing API fees
+- 🎯 **High-Performance**: Achieves performance comparable to 7B–9B models through advanced training techniques
 
 ---
 
