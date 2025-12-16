@@ -11,7 +11,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Welcome+to+LightAgent;Mobile+Agentic+Foundation+Models;Open+PhoneAgent;AI+Phone" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Welcome+to+Open-PhoneAgent;Mobile+Agentic+Foundation+Models;AI+Phone" alt="Typing Animation" />
 </div>
 
 <div align="center">
