@@ -42,11 +42,21 @@
   <div style="width: 100%; height: 2px; margin: 20px 0; background: linear-gradient(90deg, transparent, #00d9ff, transparent);"></div>
 </div>
 
-LightAgent is built around an **open-source 3B-parameter on-device GUI agent model** designed specifically for real-world smartphone interaction. This 3B Vision-Language Model is small enough to be deployed on commodity GPUs and emerging mobile NPUs, while still being strong enough to handle complex multi-step GUI reasoning and control.
+## 🎯 What is Open-PhoneAgent?
 
-Rather than focusing on ever-larger cloud models, LightAgent treats the **3B on-device GUI agent** as the core capability and surrounds it with a device–cloud collaboration framework, data pipeline, and evaluation tools. A two-stage training recipe (SFT + GRPO-style RL with synthetic data) enables this compact model to approach the performance of 7B–9B models on Android GUI tasks, making it a practical and cost-effective choice for edge deployment.
+**The Problem**: Current mobile AI agents rely on expensive cloud APIs and massive models that are impractical for real-world deployment. Users face privacy concerns, latency issues, and high costs when their phone needs to call external services for every interaction.
+
+**Our Solution**: Open-PhoneAgent introduces the first **Open-Source 3B-Parameter On-Device Agentic Model** specifically engineered for smartphone interaction. This compact Vision-Language Model runs entirely on your device - no cloud dependency, no privacy concerns, no API costs.
+
+**Why 3B Parameters?** We believe the future of mobile AI isn't about cramming larger models into phones, but about smart optimization for real-world constraints:
+- **⚡ Edge-Ready**: Runs on commodity GPUs and emerging mobile NPUs
+- **🔒 Privacy-First**: All processing happens locally on your device
+- **💰 Cost-Effective**: No ongoing API fees or cloud dependencies
+- **🎯 Performance-Optimized**: Matches 7B-9B model performance through advanced training
 
 ---
+
+## 💡 Research Highlights
 
 ## 🔍 LightAgent-3B: Open-Source On-Device GUI Agent Model
 
